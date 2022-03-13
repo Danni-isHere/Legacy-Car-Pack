@@ -28,7 +28,6 @@ Origin: [C:\Program Files (x86)\Origin Games\BurnoutPR]
 3b) If the game IS launched:
     - If your current car at the time of replacement ISN'T the same as the modded car:
       - Change car to the modded car.
-
     - If your current car at the time of replacement IS the same as the modded car:
       - Change car to a car with a different parent (anything that isnt a burning route or original version of the car you're driving currently) and change back through either a menu or junkyard.
 
